@@ -13,14 +13,14 @@
         <br>
         <ul>
             <li>💫 <b>Computer Science Enthusiast, DevOps Engineer, Problem Solver, Freelancer, and TechDocs Writer.</li>
-            <li>🎯 <b>I am passionate about learning Linux, Virtualization, Cloud Computing and DevOps.</li>
+            <li>🎯 <b>I am passionate about learning Linux, Virtualization, Cloud Computing, and DevOps.</li>
             <li>💢 <b>Detailed-oriented, responsible, and committed engineer. Self and quick learner, self-motivated, and social.</li>
             <li>🌱 <b>I graduated from SLIIT</b>: BSc (Hons) in Information Technology Specialising in Computer Systems & Network Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: DevOps related things.</li>
+            <li>🎯 <b>I’m currently focusing on DevOps-related things.</li>
             <li>💜 <b>I’m currently working as a DevOps engineer at IFS.</li>
             <li>📫 Reach me at <a href="mailto:lahiruwarusavithana@gmail.com">lahiruwarusavithana@gmail.com</a><br></li>
             <li>🎯 <b>I regularly write articles on</b>: <a href="https://medium.com/@lahiruwarusavithana">Follow me on Medium</a><br></li>
-            <li>😄 <b>Fun fact</b>: I love Nature(🌴), Coding(💻), Traveling(🌍), and Photography(📷).</li>
+            <li>😄 <b>Fun facts</b>: I love Nature(🌴), Coding(💻), Traveling(🌍), and Photography(📷).</li>
         </ul>
     </div>
 
