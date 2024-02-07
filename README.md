@@ -29,6 +29,7 @@
 <a href="https://linkedin.com/in/lahiru-warusavithana-b61298177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru-warusavithana-b61298177" height="30" width="40" /></a>
 <a href="https://fb.com/lahirusanjaya.warusavithana.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lahirusanjaya.warusavithana.5" height="30" width="40" /></a>
 <a href="https://medium.com/@lahiruwarusavithana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lahiruwarusavithana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lahiru_9800?igsh=MXRqanl2dHZhN3h4cw%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://github.com/lahiruwarusavithana/skill-icons/blob/main/icons/Instagram.svg" alt="@lahiruwarusavithana" height="30" width="40" /></a>
   
 ---
 
