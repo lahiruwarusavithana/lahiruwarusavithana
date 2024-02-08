@@ -58,8 +58,6 @@ src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" t
 #### Editor / IDE I ♥
 <p align="left"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth0045&show_icons=true&hide=stars,issues" alt="yatharth0045" /></p>
-
 ## By the way here are some of my statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=lahiruwarusavithana&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lahiruwarusavithana&theme=tokyonight" alt="mystreak"/>
